@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">NeonSSH2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="Main_Title">NeonSSH exec</string>
+    <string name="Username">USERNAME</string>
+    <string name="Password">PASSWORD</string>
+    <string name="Connect">NEXT</string>
+    <string name="Wifi_is_off">WiFi is OFF!</string>
+    <string name="title_activity_two">ActivityTwo</string>
+    <string name="server_address">SERVER ADDRESS</string>
+    <string name="server_port">PORT NUMBER</string>
+    <string name="p_id">Profile</string>
+    <string name="save_pwd">Save</string>
+    <string name="test_connection">TEST</string>
+    <string name="try_conn">Trying to connect (wait)</string>
+    <string name="add_cmd">Add</string>
+    <string name="add_cmd_et">Insert command</string>
+    <string name="execute_cmd">Execute</string>
+    <string name="back_screen">Back</string>
+    <string name="delete_cmd">Delete</string>
+    <string name="bt_off">BT turned OFF:retry</string>
+    <string name="warning_connectivity_1">Internet over bluetooth is active. For local connections you must deactivate bluetooth and use WiFi instead.</string>
+    <string name="warning_connectivity_2">What do you want to do?</string>
+    <string name="warning_connectivity_3">Keep this going</string>
+    <string name="warning_connectivity_4">Turn off bluetooth</string>
+
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_three">ActivityThree</string>
+    <string name="title_activity_execute">ActivityExecute</string>
+
+</resources>
