@@ -2,7 +2,7 @@
 Connect to your computer from your watch over ssh.
 (This is an experimental application)
 <p align="center">
-  <img src="https://github.com/SuperMalc/AndroidWear_SSH-Client/blob/master/picture.jpg" width="650" title="InstaBackupBot">
+  <img src="https://github.com/SuperMalc/AndroidWear_SSH-Client/blob/master/picture.jpg" width="450" title="InstaBackupBot">
 </p>
 <br />
 <br />
