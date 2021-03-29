@@ -1,4 +1,4 @@
-## Android Wear SSH Client
+## NeonSSH - Android Wear SSH Client
 Connect to your computer from your watch over ssh.
 (This is an experimental application)
 <br />
