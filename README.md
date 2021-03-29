@@ -7,4 +7,5 @@ Connect to your computer from your watch over ssh.
 <br />
 <br />
 - Apk file: https://github.com/SuperMalc/AndroidWear_SSH-Client/blob/master/neon_ssh.apk
+<br />
 - Library used in this app: http://www.jcraft.com/jsch/
