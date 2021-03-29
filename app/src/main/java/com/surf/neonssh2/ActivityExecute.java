@@ -76,43 +76,12 @@ public class ActivityExecute extends Activity {
                     startActivity(back);
 
 
-                } else {
-                    Log.d(TAG, "NO");
-                }
-                
-                /*
-
-                ArrayList<String> arrayList;
-                arrayList = ActivityThreePreferences.getArrayPrefs("OrderList", getApplicationContext());
-                Log.d(TAG, "retrieved: " + arrayList);
-
-                //Check se lo contiene
-                boolean checkString = arrayList.contains(retrieveCommand);
-
-                if (checkString) {
-                    Log.d(TAG, "YES");
-                } else {
-                    Log.d(TAG, "NO");
-                }
-
-                //ActivityThreePreferences.remArrayPrefs("OrderList",  ,getApplicationContext());
-
-
-
-
-                //ActivityThreePreferences.remArrayPrefs("OrderList", , this);
-                
-                 */
-
+                } 
             }
         });
-
-
-
     }
 
     public int getCategoryPos(String category, ArrayList<String> arrayList) {
         return arrayList.indexOf(category);
     }
 }
-
